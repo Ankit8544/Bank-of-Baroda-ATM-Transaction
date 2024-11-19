@@ -1,7 +1,3 @@
-Thank you for clarifying. I'll make sure to include "Bank of Baroda" explicitly. Here's the revised version:
-
----
-
 # **Bank of Baroda (BOB) ATM Transaction Analysis** 🏦📊
 
 A comprehensive Power BI dashboard analyzing Bank of Baroda’s ATM transactions, cost management, and regional performance metrics. Get actionable insights into financial and non-financial transactions, cost efficiency, and ATM uptime across multiple states.
